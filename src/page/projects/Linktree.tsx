@@ -12,7 +12,7 @@ export default function Linktree() {
       <section className={styles.card_div}>
         <img
           className={styles.profile_image}
-          src="https://avatars.githubusercontent.com/u/136207802?v=4"
+          src="https://avatars.githubusercontent.com/u/241820121?v=4"
           alt="persona"
         />
         <h1 className={styles.profile_name}>Vinicius Yahagi Rios</h1>
@@ -21,14 +21,14 @@ export default function Linktree() {
         <div className={styles.profile_info_div}>
           <a
             className={styles.profile_link}
-            href="https://github.com/ViniciusRiosYahagi"
+            href="https://github.com/vinicius-yr"
             target="_blank"
           >
             Github
           </a>
           <a
             className={styles.profile_link}
-            href="https://www.linkedin.com/in/vinicius-yahagi-rios-350647280/"
+            href="https://www.linkedin.com/in/vinicius-y-rios-360432397/"
             target="_blank"
           >
             Linkedin
